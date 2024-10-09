@@ -10,7 +10,7 @@ const Home = () => {
       <Navbar />
       <ImageCarousal />
       <div className='relative '>
-        <div className='w-full h-[250vh] sm:h-[180vh] md:h-[260vh] lg:h-[250vh] object-cover text-2xl mt-20 text-black  z-50'>
+        <div className='w-full h-[250vh] sm:h-[180vh] md:h-[260vh] lg:h-[180vh] object-cover text-2xl mt-20 text-black  z-50'>
           <div className=
             " p-6">
             <h1 className=
